@@ -1,3 +1,10 @@
+img {
+width: 100%;
+height: auto;
+}
 .text {
     color: green;
+}
+.col {
+    border: 1px solid black;
 }
